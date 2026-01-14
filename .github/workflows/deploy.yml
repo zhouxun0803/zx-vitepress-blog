@@ -40,6 +40,17 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
+      - name: Build dependencies
+        run: |
+          # Build all required plugins and theme for the blogpress package
+          pnpm build:51la
+          pnpm build:image-preview
+          pnpm build:announcement
+          pnpm build:shared
+          pnpm build:pagefind
+          pnpm build:rss
+          pnpm buildTheme
+
       - name: Build
         run: pnpm --filter blogpress build
 
