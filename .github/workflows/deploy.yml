@@ -43,6 +43,9 @@ jobs:
       - name: Build
         run: pnpm --filter blogpress build
 
+      - name: Disable Jekyll
+        run: touch packages/blogpress/.vitepress/dist/.nojekyll
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
@@ -50,3 +53,4 @@ jobs:
           publish_dir: packages/blogpress/.vitepress/dist
           publish_branch: gh-pages
           full_commit_message: ${{ github.event.head_commit.message }}
+          force_orphan: true
