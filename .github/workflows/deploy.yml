@@ -45,8 +45,10 @@ jobs:
 
       - name: Disable Jekyll
         run: |
-          touch packages/blogpress/.vitepress/dist/.nojekyll
-          # Also create .nojekyll in the root to ensure Jekyll is disabled
+          # Ensure .nojekyll exists in repository root to prevent Jekyll from processing
+          # This is a standard practice for VitePress projects
+          [ -f .nojekyll ] || echo "" > .nojekyll
+          # Create .nojekyll in dist directory to disable Jekyll on gh-pages
           echo "" > packages/blogpress/.vitepress/dist/.nojekyll
 
       - name: Clean gh-pages branch
