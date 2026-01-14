@@ -43,13 +43,10 @@ jobs:
       - name: Build
         run: pnpm --filter blogpress build
 
-      - name: Disable Jekyll
+      - name: Prepare deployment
         run: |
-          # Ensure .nojekyll exists in repository root to prevent Jekyll from processing
-          # This is a standard practice for VitePress projects
-          [ -f .nojekyll ] || echo "" > .nojekyll
-          # Create .nojekyll in dist directory to disable Jekyll on gh-pages
-          echo "" > packages/blogpress/.vitepress/dist/.nojekyll
+          # Ensure .nojekyll exists in dist for gh-pages
+          cp .nojekyll packages/blogpress/.vitepress/dist/.nojekyll
 
       - name: Clean gh-pages branch
         run: |

@@ -1,0 +1,18 @@
+# Disable Jekyll completely - VitePress generates static files
+safe: true
+markdown: false
+kramdown:
+  enabled: false
+plugins: []
+exclude:
+  - node_modules
+  - packages
+  - .github
+  - .git
+  - .svn
+  - __pycache__
+  - *.pyc
+  - *.log
+  - .DS_Store
+  - .idea
+  - .vscode
