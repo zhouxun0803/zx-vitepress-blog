@@ -4,6 +4,7 @@ import { blogTheme } from './blog-theme'
 
 export default defineConfig({
   extends: blogTheme,
+  base: '/zx-vitepress-blog/',
   metaChunk: true,
   srcExclude: ['CHANGELOG.md', 'redirect-tag.md'],
   markdown: {
@@ -13,7 +14,7 @@ export default defineConfig({
   },
   ignoreDeadLinks: true,
   sitemap: {
-    hostname: 'https://sugarat.top',
+    hostname: 'https://zhouxun0803.github.io/zx-vitepress-blog/',
   },
   lang: 'zh-cn',
   title: '勋染',
