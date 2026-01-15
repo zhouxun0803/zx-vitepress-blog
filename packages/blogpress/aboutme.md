@@ -46,5 +46,5 @@ tags:
 
 **微信**：
 
-<img src="/zx-vitepress-blog/wx-qr-code.jpg" style="width:200px;">
+<img src="/wx-qr-code.jpg" style="width:200px;">
 
