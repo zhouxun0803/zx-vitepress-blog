@@ -4,7 +4,7 @@ import { blogTheme } from './blog-theme'
 
 export default defineConfig({
   extends: blogTheme,
-  base: '/',
+  // base: '/',
   metaChunk: true,
   srcExclude: ['CHANGELOG.md', 'redirect-tag.md'],
   markdown: {
