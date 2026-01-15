@@ -74,7 +74,7 @@ export default defineConfig({
 
 ![](https://img.cdn.sugarat.top/mdImg/MTY3OTEyMjg5Nzc1Mg==679122897752~fmt.webp)
 
-下面开始详细介绍 [Theme.BlogConfig](https://github.com/ATQQ/sugar-blog/blob/255c4b1e6a85a529be3a72c88e365077e067ecba/packages/theme/src/composables/config/index.ts#L69-L137)
+下面开始详细介绍 [Theme.BlogConfig](https://github.com/zhouxun0803/zx-vitepress-blog/blob/255c4b1e6a85a529be3a72c88e365077e067ecba/packages/theme/src/composables/config/index.ts#L69-L137)
 
 ## author
 
@@ -532,7 +532,7 @@ interface SearchItem {
 
 ![](https://img.cdn.sugarat.top/mdImg/MTY3OTEyMzQ0NDAwOA==679123444008~fmt.webp)
 
-详细配置和使用方法可以见插件文档：[vitepress-plugin-pagefind](https://github.com/ATQQ/sugar-blog/blob/master/packages/vitepress-plugin-pagefind/README-zh.md)
+详细配置和使用方法可以见插件文档：[vitepress-plugin-pagefind](https://github.com/zhouxun0803/zx-vitepress-blog/blob/master/packages/vitepress-plugin-pagefind/README-zh.md)
 
 ### 全文搜索 - algolia
 
@@ -1087,7 +1087,7 @@ interface Alert {
 ![](https://img.cdn.sugarat.top/mdImg/MTY3NDk5NDY3Nzc5NQ==674994677795~fmt.webp)
 
 ::: tip 已拆分为独立插件
-详细配置和使用方法可以见插件文档：[vitepress-plugin-announcement](https://github.com/ATQQ/sugar-blog/blob/master/packages/vitepress-plugin-announcement/README.md)
+详细配置和使用方法可以见插件文档：[vitepress-plugin-announcement](https://github.com/zhouxun0803/zx-vitepress-blog/blob/master/packages/vitepress-plugin-announcement/README.md)
 :::
 
 ::: code-group
@@ -1107,7 +1107,7 @@ const blogTheme = getThemeConfig({
       { type: 'text', content: '👇公众号👇---👇 微信 👇' },
       {
         type: 'image',
-        src: 'https://img.cdn.sugarat.top/mdImg/MTYxNTAxODc2NTIxMA==615018765210~fmt.webp'
+        src: '/zx-vitepress-blog/fmt-code.png'
       }
     ],
     footer: [
@@ -1259,10 +1259,10 @@ const blogTheme = getThemeConfig({
 
 ## imagePreview
 
-用于设置图片预览插件的配置项，详见[插件文档](https://github.com/ATQQ/sugar-blog/blob/master/packages/vitepress-plugin-image-preview/README.md)
+用于设置图片预览插件的配置项，详见[插件文档](https://github.com/zhouxun0803/zx-vitepress-blog/blob/master/packages/vitepress-plugin-image-preview/README.md)
 
 ::: tip 已拆分为独立插件
-详细配置和使用方法可以见插件文档：[vitepress-plugin-image-preview](https://github.com/ATQQ/sugar-blog/blob/master/packages/vitepress-plugin-image-preview/README.md)
+详细配置和使用方法可以见插件文档：[vitepress-plugin-image-preview](https://github.com/zhouxun0803/zx-vitepress-blog/blob/master/packages/vitepress-plugin-image-preview/README.md)
 :::
 
 :::code-group
@@ -1723,7 +1723,7 @@ const blogTheme = getThemeConfig({
   buttonAfterArticle: {
     openTitle: '赞赏',
     closeTitle: '下次一定',
-    content: '<img src="https://img.cdn.sugarat.top/mdImg/MTY0Nzc1NTYyOTE5Mw==647755629193">',
+    content: '<img src="/zx-vitepress-blog/appreciation-code.jpg">',
     icon: 'aliPay'
   }
 })

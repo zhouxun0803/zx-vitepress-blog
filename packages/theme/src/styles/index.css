@@ -83,10 +83,14 @@ html.dark {
     margin-top: 60px !important;
   }
 }
-.VPDoc .content main img {
+.VPDoc .content main td img {
   max-height: 300px;
   margin: 0 auto;
   cursor: pointer;
+}
+
+.VPDoc .content main td:last-child img {
+  max-height: 168px !important;
 }
 .VPDoc .content main .vp-doc a {
   word-break: break-all;
@@ -162,4 +166,5 @@ span.svg-icon svg {
 .VPImage.logo {
   width: 24px;
   height: 24px;
+  border-radius: 50%;
 }

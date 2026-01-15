@@ -134,6 +134,7 @@ footer.blog-footer p {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  display: none;
 }
 
 @media (max-width: 719px) {

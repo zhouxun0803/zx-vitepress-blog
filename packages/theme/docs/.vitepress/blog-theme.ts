@@ -123,7 +123,7 @@ export const blogTheme = getThemeConfig({
   buttonAfterArticle: {
     openTitle: '投"币"支持',
     closeTitle: '下次一定',
-    content: '<img src="https://img.cdn.sugarat.top/mdImg/MTY0Nzc1NTYyOTE5Mw==647755629193">',
+    content: '<img src="/zx-vitepress-blog/appreciation-code.jpg">',
     icon: 'wechatPay',
   },
   popover: {
@@ -133,7 +133,7 @@ export const blogTheme = getThemeConfig({
       { type: 'text', content: '**👇公众号👇---👇 微信 👇**' },
       {
         type: 'image',
-        src: 'https://img.cdn.sugarat.top/mdImg/MTYxNTAxODc2NTIxMA==615018765210~fmt.webp',
+        src: '/zx-vitepress-blog/fmt-code.png',
         alt: '勋染微信二维码'
       },
       {
@@ -166,7 +166,7 @@ export const blogTheme = getThemeConfig({
           { type: 'text', content: '👇 Wechat 👇' },
           {
             type: 'image',
-            src: 'https://img.cdn.sugarat.top/mdImg/MTYxNTAxODc2NTIxMA==615018765210~fmt.webp'
+            src: '/zx-vitepress-blog/fmt-code.png'
           },
           {
             type: 'button',

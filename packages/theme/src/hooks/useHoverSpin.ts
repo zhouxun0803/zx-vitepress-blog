@@ -9,7 +9,7 @@ import type { Theme } from '../composables/config/index'
  * @param decelDuration 缓停时长
  */
 export function useHoverSpin(elRef: Ref<HTMLElement | null>, hoverSpinConfig?: Theme.HoverSpinConfig | boolean) {
-  const { accel = 180, maxVel = 2160, decelDuration = 1500 } = hoverSpinConfig === true ? {} : hoverSpinConfig || {}
+  const { accel = 180, maxVel = 3160, decelDuration = 1500 } = hoverSpinConfig === true ? {} : hoverSpinConfig || {}
   let rafId = 0
   let lastTs = 0
   let rotation = 0

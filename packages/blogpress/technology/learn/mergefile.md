@@ -158,7 +158,7 @@ function mergeFile(files) {
 }
 ```
 ## 测试
-以我[当前的项目](https://github.com/ATQQ/sugar-blog)为例子
+以我[当前的项目](https://github.com/zhouxun0803/zx-vitepress-blog)为例子
 ```sh
 node index.js /home/sugar/Documents/VueProject/my-blog-vuepress
 ```

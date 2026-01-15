@@ -1,6 +1,6 @@
 # vitepress-plugin-announcement
 
-[English](https://github.com/ATQQ/sugar-blog/blob/master/packages/vitepress-plugin-announcement/README-en.md) | 简体中文
+[English](https://github.com/zhouxun0803/zx-vitepress-blog/blob/master/packages/vitepress-plugin-announcement/README-en.md) | 简体中文
 
 ![](https://cdn.upyun.sugarat.top/mdImg/sugar/7af94a65e3b4dd05e61e3411daba7fdd)
 

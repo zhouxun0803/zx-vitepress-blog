@@ -1,6 +1,6 @@
 # vitepress-plugin-51la
 
-[English](https://github.com/ATQQ/sugar-blog/blob/master/packages/vitepress-plugin-51la/README-en.md) | 简体中文
+[English](https://github.com/zhouxun0803/zx-vitepress-blog/blob/master/packages/vitepress-plugin-51la/README-en.md) | 简体中文
 
 为 `VitePress` 站点引入 [51.la](https://v6.51.la/) 的网站数据统计能力。
 

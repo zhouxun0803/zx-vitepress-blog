@@ -4,10 +4,10 @@
   "description": "简约风的 Vitepress 博客主题，sugarat vitepress blog theme",
   "author": "勋染",
   "license": "MIT",
-  "homepage": "https://github.com/ATQQ/sugar-blog/tree/master/packages/create-theme",
+  "homepage": "https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/packages/create-theme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ATQQ/sugar-blog.git"
+    "url": "git+https://github.com/zhouxun0803/zx-vitepress-blog.git"
   },
   "keywords": [
     "blog",

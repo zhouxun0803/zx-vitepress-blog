@@ -319,7 +319,7 @@ export async function getPostsData(
         }
 
         // 移除零宽字符
-        // https://github.com/ATQQ/sugar-blog/issues/276
+        // https://github.com/zhouxun0803/zx-vitepress-blog/issues/276
         html = removeZeroWidthSpace(html)
 
         // 插入自定义样式

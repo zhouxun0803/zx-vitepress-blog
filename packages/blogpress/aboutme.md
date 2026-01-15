@@ -2,7 +2,7 @@
 sidebar: false
 title: 关于自己
 date: 2021-12-11
-cover: https://sugarat.top/mp-code.png
+cover: /zx-vitepress-blog/mp-code.png
 tags:
  - 其它
 ---
@@ -11,9 +11,9 @@ tags:
 
 ---
 
-99年出生，标准的理工男一枚,毕业于([西南石油大学](https://www.swpu.edu.cn/)),热爱开源与知识分享
+01年出生，标准的理工男一枚,毕业于([哈尔滨理工大学](https://www.hrbust.edu.cn/)),热爱开源与知识分享
 
-目前就职于 🛵 **美团（base 成都）** 🛵
+目前就职于 🛵 **圣泓集团（base 杭州）** 🛵
 
 ![图片](https://img.cdn.sugarat.top/mdImg/MTYwNDcyMTQ4NTMyOA==604721485328)
 
@@ -42,9 +42,9 @@ tags:
 你的指尖,拥有改变世界的力量:smile:
 
 ## :phone:联系我
-**邮箱**：engineerzjl@foxmail.com
+**邮箱**：dev.zhouxun@outlook.com
 
 **微信**：
 
-<img src="https://img.cdn.sugarat.top/mdImg/MTYxMzIwMTA0NzIyNg==wx.jpg" style="width:200px;">
+<img src="/zx-vitepress-blog/wx-qr-code.jpg" style="width:200px;">
 

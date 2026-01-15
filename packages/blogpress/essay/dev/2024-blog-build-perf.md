@@ -1,6 +1,6 @@
 # 博客构建性能优化笔记 | 提速 3 倍
 
-笔者的博客基于 VitePress 搭建的，使用其自定义主题能力完成博客主题 [@sugarat/theme](https://github.com/ATQQ/sugar-blog/tree/master/packages/theme) 的搭建。
+笔者的博客基于 VitePress 搭建的，使用其自定义主题能力完成博客主题 [@sugarat/theme](https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/packages/theme) 的搭建。
 
 ![](https://cdn.upyun.sugarat.top/mdImg/sugar/cba8352b9fdd1e26dfe2146dde30bc97)
 
@@ -18,7 +18,7 @@
 
 ## 先看一下优化前后的效果
 
-* 测试项目：[笔者的博客](https://github.com/ATQQ/sugar-blog/tree/master/packages/blogpress)，差不多 490 篇文章。
+* 测试项目：[笔者的博客](https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/packages/blogpress)，差不多 490 篇文章。
 * 测试机器：Mac Mini (M1, 2020)
 
 ### 仅开启博客相关的样式能力

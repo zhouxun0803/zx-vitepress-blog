@@ -41,7 +41,7 @@ export const themeEN = defineLocaleConfig({
   buttonAfterArticle: {
     openTitle: 'By Me A ☕️',
     closeTitle: 'Bye Bye 👋🏻',
-    content: '<img src="https://img.cdn.sugarat.top/mdImg/MTY0Nzc1NTYyOTE5Mw==647755629193">',
+    content: '<img src="/zx-vitepress-blog/appreciation-code.jpg">',
     icon: 'wechatPay',
   },
   friend: [{

@@ -5,13 +5,13 @@
   "description": "vitepress plugin, slot template",
   "author": "sugar",
   "license": "MIT",
-  "homepage": "https://github.com/ATQQ/sugar-blog/tree/master/template/vitepress-plugin-slot-inject-template",
+  "homepage": "https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/template/vitepress-plugin-slot-inject-template",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ATQQ/sugar-blog.git"
+    "url": "git+https://github.com/zhouxun0803/zx-vitepress-blog.git"
   },
   "bugs": {
-    "url": "https://github.com/ATQQ/sugar-blog/issues"
+    "url": "https://github.com/zhouxun0803/zx-vitepress-blog/issues"
   },
   "keywords": [
     "vitepress",

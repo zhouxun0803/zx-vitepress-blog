@@ -6,13 +6,13 @@
   "description": "个人博客&知识&文档站集",
   "author": "sugar",
   "license": "MIT",
-  "homepage": "https://github.com/ATQQ/sugar-blog#readme",
+  "homepage": "https://github.com/zhouxun0803/zx-vitepress-blog#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ATQQ/sugar-blog.git"
+    "url": "git+https://github.com/zhouxun0803/zx-vitepress-blog.git"
   },
   "bugs": {
-    "url": "https://github.com/ATQQ/sugar-blog/issues"
+    "url": "https://github.com/zhouxun0803/zx-vitepress-blog/issues"
   },
   "keywords": [],
   "scripts": {
