@@ -526,13 +526,13 @@ recommend: false
 buttonAfterArticle:
   openTitle: 投币
   closeTitle: 下次一定
-  content: '<img src="/zx-vitepress-blog/appreciation-code.jpg">'
+  content: '<img src="/appreciation-code.jpg">'
   icon: aliPay
   # size: small
   # expand: true
 ---
 ```
 
-![](https://img.cdn.sugarat.top/mdImg/sugar/4d429bea65b8840f5cfda875fac50926~fmt.webp)
+![](/appreciation-code.jpg)
 
 也支持在全局设置，对所有页面都生效。

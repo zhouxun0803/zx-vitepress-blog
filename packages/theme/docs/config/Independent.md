@@ -102,7 +102,7 @@ getThemeConfig({
       { type: 'text', content: '👇公众号👇---👇 微信 👇' },
       {
         type: 'image',
-        src: '/zx-vitepress-blog/fmt-code.png'
+        src: '/fmt-code.png'
       },
       {
         type: 'text',

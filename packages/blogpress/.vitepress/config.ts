@@ -4,7 +4,7 @@ import { blogTheme } from './blog-theme'
 
 export default defineConfig({
   extends: blogTheme,
-  base: '/zx-vitepress-blog/',
+  base: '/',
   metaChunk: true,
   srcExclude: ['CHANGELOG.md', 'redirect-tag.md'],
   markdown: {
@@ -29,16 +29,16 @@ export default defineConfig({
       'link',
       {
         rel: 'alternate icon',
-        href: '/zx-vitepress-blog/favicon.ico',
+        href: '/favicon.ico',
         type: 'image/png',
         sizes: '16x16'
       }
     ],
     ['meta', { name: 'author', content: '勋染' }],
-    ['link', { rel: 'mask-icon', href: '/zx-vitepress-blog/favicon.ico', color: '#ffffff' }],
+    ['link', { rel: 'mask-icon', href: '/favicon.ico', color: '#ffffff' }],
     [
       'link',
-      { rel: 'apple-touch-icon', href: '/zx-vitepress-blog/favicon.ico', sizes: '180x180' }
+      { rel: 'apple-touch-icon', href: '/favicon.ico', sizes: '180x180' }
     ],
   ],
   vite: {
