@@ -18,7 +18,7 @@ const logo = computed(() =>
   ?? frontmatter.value?.blog?.logo
   ?? home?.value?.logo
   ?? site.value?.themeConfig?.logo
-  ?? '/logo.png'
+  ?? '/zx-vitepress-blog/logo.png'
 )
 const show = computed(() => author.value || logo.value)
 

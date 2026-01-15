@@ -73,7 +73,7 @@ const blogTheme = getThemeConfig({
       { type: 'text', content: '👇公众号👇---👇 微信 👇' },
       {
         type: 'image',
-        src: '/fmt-code.png',
+        src: '/zx-vitepress-blog/fmt-code.png',
         alt: '勋染微信二维码'
       },
       {

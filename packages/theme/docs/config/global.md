@@ -1107,7 +1107,7 @@ const blogTheme = getThemeConfig({
       { type: 'text', content: '👇公众号👇---👇 微信 👇' },
       {
         type: 'image',
-        src: '/fmt-code.png'
+        src: '/zx-vitepress-blog/fmt-code.png'
       }
     ],
     footer: [
@@ -1527,7 +1527,7 @@ hero:
   text: Vite & Vue powered static site generator.
   tagline: Lorem ipsum...
   image:
-    src: /logo.png
+    src: /zx-vitepress-blog/logo.png
     alt: VitePress
   actions:
     - theme: brand
@@ -1714,7 +1714,7 @@ type ThemeColor = 'vp-default' | 'vp-green' | 'vp-yellow' | 'vp-red' | 'el-blue'
 
 用于控制文章底部按钮，点击按钮会在按钮下方渲染一个自定义的html内容，例如可以用来做赞赏按钮，内置了 `wechatPay` 和 `aliPay` 两个图标，也可自定义图标(svg)。
 
-![](/appreciation-code.jpg)
+![](/zx-vitepress-blog/appreciation-code.jpg)
 
 ::: code-group
 
@@ -1723,7 +1723,7 @@ const blogTheme = getThemeConfig({
   buttonAfterArticle: {
     openTitle: '赞赏',
     closeTitle: '下次一定',
-    content: '<img src="/appreciation-code.jpg">',
+    content: '<img src="/zx-vitepress-blog/appreciation-code.jpg">',
     icon: 'aliPay'
   }
 })
@@ -1908,7 +1908,7 @@ const blogTheme = getThemeConfig({
     },
     icpRecord: {
       name: '自定义 img 图标',
-      icon: '<img src="/logo.png"/>',
+      icon: '<img src="/zx-vitepress-blog/logo.png"/>',
       link: 'https://beian.miit.gov.cn/'
     },
   }

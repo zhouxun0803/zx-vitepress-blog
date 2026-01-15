@@ -163,7 +163,7 @@ blog:
 blog:
  # 设置作者信息
  author: Sugar
- logo: /logo.png
+ logo: /zx-vitepress-blog/logo.png
 ---
 ```
 
@@ -526,13 +526,13 @@ recommend: false
 buttonAfterArticle:
   openTitle: 投币
   closeTitle: 下次一定
-  content: '<img src="/appreciation-code.jpg">'
+  content: '<img src="/zx-vitepress-blog/appreciation-code.jpg">'
   icon: aliPay
   # size: small
   # expand: true
 ---
 ```
 
-![](/appreciation-code.jpg)
+![](/zx-vitepress-blog/appreciation-code.jpg)
 
 也支持在全局设置，对所有页面都生效。

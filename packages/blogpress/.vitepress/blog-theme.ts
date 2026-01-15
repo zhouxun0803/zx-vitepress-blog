@@ -86,7 +86,7 @@ export const blogTheme = getThemeConfig({
       { type: 'text', content: '👇公众号👇---👇 微信 👇' },
       {
         type: 'image',
-        src: '/fmt-code.png',
+        src: '/zx-vitepress-blog/fmt-code.png',
         alt: '勋染微信二维码'
       },
       {
@@ -96,7 +96,7 @@ export const blogTheme = getThemeConfig({
       {
         type: 'button',
         content: '关于作者',
-        link: '/aboutme.html'
+        link: '/zx-vitepress-blog/aboutme.html'
       },
       {
         type: 'button',
@@ -104,7 +104,7 @@ export const blogTheme = getThemeConfig({
         props: {
           type: 'success'
         },
-        link: '/group.html',
+        link: '/zx-vitepress-blog/group.html',
       }
     ],
     duration: -1,
@@ -312,7 +312,7 @@ export const blogTheme = getThemeConfig({
   buttonAfterArticle: {
     openTitle: '投"币"支持',
     closeTitle: '下次一定',
-    content: '<img src="/appreciation-code.jpg">',
+    content: '<img src="/zx-vitepress-blog/appreciation-code.jpg">',
     icon: 'wechatPay',
   },
 })

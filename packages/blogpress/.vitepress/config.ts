@@ -4,7 +4,7 @@ import { blogTheme } from './blog-theme'
 
 export default defineConfig({
   extends: blogTheme,
-  // base: '/zx-vitepress-blog/',
+  base: '/zx-vitepress-blog',
   metaChunk: true,
   srcExclude: ['CHANGELOG.md', 'redirect-tag.md'],
   markdown: {
@@ -24,21 +24,21 @@ export default defineConfig({
     // <meta name="baidu-site-verification" content="codeva-b08avp82Uj" />
     ['meta', { name: 'baidu-site-verification', content: 'codeva-b08avp82Uj' }],
     ['meta', { name: 'theme-color', content: '#ffffff' }],
-    ['link', { rel: 'icon', href: 'zx-vitepress-blog/favicon.ico', type: 'image/png' }],
+    ['link', { rel: 'icon', href: '/zx-vitepress-blog/favicon.ico', type: 'image/png' }],
     [
       'link',
       {
         rel: 'alternate icon',
-        href: 'zx-vitepress-blog/favicon.ico',
+        href: '/zx-vitepress-blog/favicon.ico',
         type: 'image/png',
         sizes: '16x16'
       }
     ],
     ['meta', { name: 'author', content: '勋染' }],
-    ['link', { rel: 'mask-icon', href: 'zx-vitepress-blog/favicon.ico', color: '#ffffff' }],
+    ['link', { rel: 'mask-icon', href: '/zx-vitepress-blog/favicon.ico', color: '#ffffff' }],
     [
       'link',
-      { rel: 'apple-touch-icon', href: 'zx-vitepress-blog/favicon.ico', sizes: '180x180' }
+      { rel: 'apple-touch-icon', href: '/zx-vitepress-blog/favicon.ico', sizes: '180x180' }
     ],
   ],
   vite: {
@@ -76,7 +76,7 @@ export default defineConfig({
     //   }
     // },
     lastUpdatedText: '上次更新于',
-    logo: 'logo.png',
+    logo: '/logo.png',
     // editLink: {
     //   pattern:
     //     'https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/packages/blogpress/:path',
@@ -134,10 +134,10 @@ export default defineConfig({
       {
         text: '面试',
         items: [
-          { text: '心得总结', link: '/offer/experience/' },
-          { text: '校招考点汇总', link: '/offer/campus/' },
-          { text: '面经汇总', link: '/offer/sum-interview/' },
-          { text: '复习自查', link: '/offer/review/' },
+          // { text: '心得总结', link: '/offer/experience/' },
+          // { text: '校招考点汇总', link: '/offer/campus/' },
+          // { text: '面经汇总', link: '/offer/sum-interview/' },
+          // { text: '复习自查', link: '/offer/review/' },
           { text: '问解', link: '/interview/problem/' },
           { text: 'javascript', link: '/interview/js/' },
           { text: 'css', link: '/interview/css/' },
@@ -147,7 +147,7 @@ export default defineConfig({
           // { text: '操作系统', link: '/interview/os/' },
           // { text: '设计模式', link: '/interview/design/' },
           { text: '综合问题', link: '/interview/other/' },
-          { text: '面经汇总', link: '/offer/sum-interview/' },
+          // { text: '面经汇总', link: '/offer/sum-interview/' },
           { text: '小程序', link: '/interview/mini/' }
           // { text: '面经', link: '/interview/experience/' }
         ]

@@ -35,7 +35,7 @@ export default defineConfig({
     ]
   },
   themeConfig: {
-    logo: '/logo.png',
+    logo: '/zx-vitepress-blog/logo.png',
     nav: [
       {
         text: `v${packageJSON.version}`,

@@ -2,7 +2,7 @@
 sidebar: false
 title: 关于自己
 date: 2021-12-11
-cover: /mp-code.png
+cover: /zx-vitepress-blog/mp-code.png
 tags:
  - 其它
 ---
@@ -46,5 +46,5 @@ tags:
 
 **微信**：
 
-<img src="/wx-qr-code.jpg" style="width:200px;">
+<img src="/zx-vitepress-blog/wx-qr-code.jpg" style="width:200px;">
 

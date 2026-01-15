@@ -87,7 +87,7 @@ pnpm dev:theme
 <!-- ## :coffee:赞赏
 |                                  微信                                   |                                微信赞赏                                 |                                 支付宝                                  |
 | :---------------------------------------------------------------------: | :---------------------------------------------------------------------: | :---------------------------------------------------------------------: |
-| ![](https://img.cdn.sugarat.top/mdImg/MTY1MTU0NzQ0MjMzNA==651547442334) | ![](/zx-vitepress-blog/appreciation-code.jpg) | ![](https://img.cdn.sugarat.top/mdImg/MTY1MTU0NzQyOTg0OA==651547429848) |
+| ![](https://img.cdn.sugarat.top/mdImg/MTY1MTU0NzQ0MjMzNA==651547442334) | ![](/zx-vitepress-blog/zx-vitepress-blog/appreciation-code.jpg) | ![](https://img.cdn.sugarat.top/mdImg/MTY1MTU0NzQyOTg0OA==651547429848) |
 
 ## Star History
 

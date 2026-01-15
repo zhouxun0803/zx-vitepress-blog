@@ -4,7 +4,7 @@ layout: home
 # 首页部分元素定制
 blog:
 #  author: Sugar
-#  logo: /logo.png
+#  logo: /zx-vitepress-blog/logo.png
 #  avatarMode: split
 #  minScreenAvatar: false
  name: '@sugarat/theme'

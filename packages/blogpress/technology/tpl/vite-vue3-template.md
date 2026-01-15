@@ -496,7 +496,7 @@ polyfill.io是一个垫片服务，直接通过cdn按需引入垫片，不影响
 
 <head>
   <meta charset="UTF-8" />
-  <link rel="icon" href="/favicon.ico" />
+  <link rel="icon" href="zx-vitepress-blog/favicon.ico" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Vite App</title>
   <script
