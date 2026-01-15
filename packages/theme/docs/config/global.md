@@ -1714,7 +1714,7 @@ type ThemeColor = 'vp-default' | 'vp-green' | 'vp-yellow' | 'vp-red' | 'el-blue'
 
 用于控制文章底部按钮，点击按钮会在按钮下方渲染一个自定义的html内容，例如可以用来做赞赏按钮，内置了 `wechatPay` 和 `aliPay` 两个图标，也可自定义图标(svg)。
 
-![](/zx-vitepress-blog/appreciation-code.jpg)
+![](/appreciation-code.jpg)
 
 ::: code-group
 
@@ -1723,7 +1723,7 @@ const blogTheme = getThemeConfig({
   buttonAfterArticle: {
     openTitle: '赞赏',
     closeTitle: '下次一定',
-    content: '<img src="/zx-vitepress-blog/appreciation-code.jpg">',
+    content: '<img src="/appreciation-code.jpg">',
     icon: 'aliPay'
   }
 })
