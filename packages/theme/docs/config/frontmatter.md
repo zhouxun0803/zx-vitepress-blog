@@ -533,6 +533,6 @@ buttonAfterArticle:
 ---
 ```
 
-![](/zx-vitepress-blog/appreciation-code.jpg)
+![](/appreciation-code.jpg)
 
 也支持在全局设置，对所有页面都生效。
