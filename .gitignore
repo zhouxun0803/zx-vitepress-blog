@@ -11,3 +11,20 @@ packages/theme/node.mjs
 packages/theme/node.d.mts
 _pagefind
 .vite-inspect
+
+# Git 自动提交脚本（本地生成）
+# 运行 setup-git-scripts.sh 自动生成
+daily-auto-commit.sh
+setup-daily-cron.sh
+start-daemon.sh
+stop-daemon.sh
+test-daily-commit.sh
+install-global.sh
+
+# 日志文件
+daily-commit.log
+auto-commit-daemon.log
+auto-commit-daemon.pid
+
+# 备份文件
+*.backup
