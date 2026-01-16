@@ -88,12 +88,11 @@ export default defineConfig({
         link: '/aboutme'
       },
       {
-        text: '备战春秋',
+        text: 'AI智能体',
         items: [
-          { text: '心得总结', link: '/offer/experience/' },
-          { text: '校招考点汇总', link: '/offer/campus/' },
-          { text: '面经汇总', link: '/offer/sum-interview/' },
-          { text: '复习自查', link: '/offer/review/' }
+          { text: 'coze', link: '/ai/coze/' },
+          { text: 'stable-diffusion', link: '/ai/stable-diffusion/' },
+          { text: '豆包', link: '/ai/doubao/' },
         ]
       },
       {
@@ -134,10 +133,10 @@ export default defineConfig({
       {
         text: '面试',
         items: [
-          // { text: '心得总结', link: '/offer/experience/' },
-          // { text: '校招考点汇总', link: '/offer/campus/' },
-          // { text: '面经汇总', link: '/offer/sum-interview/' },
-          // { text: '复习自查', link: '/offer/review/' },
+          { text: '心得总结', link: '/offer/experience/' },
+          { text: '校招考点汇总', link: '/offer/campus/' },
+          { text: '面经汇总', link: '/offer/sum-interview/' },
+          { text: '复习自查', link: '/offer/review/' },
           { text: '问解', link: '/interview/problem/' },
           { text: 'javascript', link: '/interview/js/' },
           { text: 'css', link: '/interview/css/' },
