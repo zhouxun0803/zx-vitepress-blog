@@ -3,7 +3,8 @@
 <!-- <p align="center">博客主题：<a href="https://theme.sugarat.top/" target="_blank">@sugarat/theme</a></p> -->
 
 [![code style](https://antfu.me/badge-code-style.svg)](https://github.com/antfu/eslint-config)
-
+## itepress-nav-template
+![图片](/zx-vitepress-blog/home.png)
 ## 仓库介绍
 
 这是一个 monorepo 仓库，包含如下内容
@@ -33,6 +34,9 @@ yarn create @sugarat/theme
 # With Bun
 bun create @sugarat/theme
 ``` -->
+
+## 预览地址
+[勋染的个人博客](https://zhouxun0803.github.io/zx-vitepress-blog/)
 ## 运行本项目
 这是一个 monorepo 仓库，博客基于[vitepress](https://vitepress.dev/)搭建，运行前需先安装依赖，构建主题包
 
