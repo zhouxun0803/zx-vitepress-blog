@@ -3,8 +3,9 @@
 <!-- <p align="center">博客主题：<a href="https://theme.sugarat.top/" target="_blank">@sugarat/theme</a></p> -->
 
 [![code style](https://antfu.me/badge-code-style.svg)](https://github.com/antfu/eslint-config)
-## itepress-nav-template
-![图片](/zx-vitepress-blog/home.png)
+## 博客主页
+<img src="packages/blogpress/public/home.png">
+
 ## 仓库介绍
 
 这是一个 monorepo 仓库，包含如下内容
@@ -66,7 +67,7 @@ pnpm dev:theme
 
 记录面试中所遇的问题，并整理相关知识点，分模块进行了梳理
 
-## :speak_no_evil:[关于笔者](./docs/aboutme.md)
+## :speak_no_evil:[关于笔者](packages/blogpress/aboutme.md)
 21年毕业，目前就职于杭州圣泓集团，热爱大前端开发技术
 
 热爱开源，乐于分享
