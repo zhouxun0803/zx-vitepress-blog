@@ -3,8 +3,12 @@
 <!-- <p align="center">博客主题：<a href="https://theme.sugarat.top/" target="_blank">@sugarat/theme</a></p> -->
 
 [![code style](https://antfu.me/badge-code-style.svg)](https://github.com/antfu/eslint-config)
+
 ## 博客主页
 <img src="packages/blogpress/public/home.png">
+
+## 预览地址
+[勋染的个人博客](https://zhouxun0803.github.io/zx-vitepress-blog/)
 
 ## 仓库介绍
 
@@ -20,7 +24,7 @@
   * [vitepress-plugin-announcement](./packages/vitepress-plugin-announcement/)：为 `VitePress` 创建一个全局公告窗口。
   * [vitepress-plugin-slot-inject-template](./template/vitepress-plugin-slot-inject-template/)：`VitePress` 插件开发模板。
 
-## 快速创建博客模板
+<!-- ## 快速创建博客模板 -->
 <!-- 支持多种包管理工具
 ```sh
 # With PNPM:
@@ -36,8 +40,6 @@ yarn create @sugarat/theme
 bun create @sugarat/theme
 ``` -->
 
-## 预览地址
-[勋染的个人博客](https://zhouxun0803.github.io/zx-vitepress-blog/)
 ## 运行本项目
 这是一个 monorepo 仓库，博客基于[vitepress](https://vitepress.dev/)搭建，运行前需先安装依赖，构建主题包
 
