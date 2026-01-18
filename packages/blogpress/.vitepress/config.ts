@@ -113,7 +113,7 @@ export default defineConfig({
           { text: '操作系统', link: '/computerBase/os/' },
           { text: '计算机网络', link: '/computerBase/Internet/' },
           { text: '设计模式', link: '/computerBase/design/' },
-          { text: '剑指offer', link: '/computerBase/offer/' }
+          { text: '剑指offer', link: '/computerBase/offer/' },
           // { text: '力扣', link: '/computerBase/leetcode/' }
         ]
       },
@@ -159,58 +159,58 @@ export default defineConfig({
           { text: 'css', link: '/coding/css/' }
         ]
       },
-      // {
-      //   text: '个人站点',
-      //   items: [
-      //     {
-      //       text: 'GitHub',
-      //       link: 'https://github.com/zhouxun0803/zx-vitepress-blog'
-      //     },
-      //     {
-      //       text: '博客园',
-      //       link: 'https://www.cnblogs.com/roseAT/'
-      //     },
-      //     {
-      //       text: '掘金',
-      //       link: 'https://juejin.im/user/1028798615918983'
-      //     }
-      //     // {
-      //     //   text: "GitBook-blog",
-      //     //   link: "https://sugar-at.gitbook.io/blog-article/",
-      //     //   icon: "reco-blog",
-      //     // },
-      //     // {
-      //     //   text: "GitBook-ES6",
-      //     //   link: "https://sugar-js.gitbook.io/-1/",
-      //     //   icon: "reco-document",
-      //     // },
-      //   ]
-      // },
       {
-        text: '线上作品',
+        text: '个人站点',
         items: [
           {
-            text: '轻取(文件收集)',
-            link: 'https://ep2.sugarat.top'
+            text: 'GitHub',
+            link: 'https://github.com/zhouxun0803/zx-vitepress-blog'
           },
           {
-            text: '个人图床',
-            link: 'https://imgbed.sugarat.top'
+            text: '博客园',
+            link: 'https://www.cnblogs.com/devzx'
           },
           {
-            text: '考勤小程序',
-            link: 'https://hdkq.sugarat.top/'
-          },
-          {
-            text: '时光恋人',
-            link: 'https://lover.sugarat.top'
-          },
-          {
-            text: '在线简历生成',
-            link: 'https://resume.sugarat.top/'
+            text: '掘金',
+            link: 'https://juejin.cn/user/1852048077502077'
           }
+          // {
+          //   text: "GitBook-blog",
+          //   link: "https://sugar-at.gitbook.io/blog-article/",
+          //   icon: "reco-blog",
+          // },
+          // {
+          //   text: "GitBook-ES6",
+          //   link: "https://sugar-js.gitbook.io/-1/",
+          //   icon: "reco-document",
+          // },
         ]
-      }
+      },
+      // {
+      //   text: '线上作品',
+      //   items: [
+      //     {
+      //       text: '轻取(文件收集)',
+      //       link: 'https://ep2.sugarat.top'
+      //     },
+      //     {
+      //       text: '个人图床',
+      //       link: 'https://imgbed.sugarat.top'
+      //     },
+      //     {
+      //       text: '考勤小程序',
+      //       link: 'https://hdkq.sugarat.top/'
+      //     },
+      //     {
+      //       text: '时光恋人',
+      //       link: 'https://lover.sugarat.top'
+      //     },
+      //     {
+      //       text: '在线简历生成',
+      //       link: 'https://resume.sugarat.top/'
+      //     }
+      //   ]
+      // }
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/zhouxun0803/zx-vitepress-blog' },
