@@ -59,7 +59,7 @@ export const themeEN = defineLocaleConfig({
   authorList: [
     {
       nickname: 'sugar',
-      url: 'https://sugarat.top/aboutme.html',
+      url: 'https://zhouxun0803.github.io/zx-vitepress-blog/aboutme.html',
       des: '你的指尖,拥有改变世界的力量'
     }
   ],

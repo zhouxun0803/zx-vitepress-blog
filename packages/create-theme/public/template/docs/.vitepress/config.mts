@@ -46,7 +46,7 @@ export default defineConfig({
     // },
     nav: [
       { text: '首页', link: '/' },
-      { text: '关于作者', link: 'https://sugarat.top/aboutme.html' }
+      { text: '关于作者', link: 'https://zhouxun0803.github.io/zx-vitepress-blog/aboutme.html' }
     ],
     socialLinks: [
       {

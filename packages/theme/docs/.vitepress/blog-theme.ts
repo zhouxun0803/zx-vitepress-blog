@@ -82,7 +82,7 @@ export const blogTheme = getThemeConfig({
   authorList: [
     {
       nickname: '勋染',
-      url: 'https://sugarat.top/aboutme.html',
+      url: 'https://zhouxun0803.github.io/zx-vitepress-blog/aboutme.html',
       des: '你的指尖,拥有改变世界的力量'
     }
   ],
