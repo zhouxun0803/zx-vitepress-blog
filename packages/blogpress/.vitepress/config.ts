@@ -93,6 +93,7 @@ export default defineConfig({
           { text: 'coze', link: '/ai/coze/' },
           { text: 'stable-diffusion', link: '/ai/stable-diffusion/' },
           { text: '豆包', link: '/ai/doubao/' },
+          { text: '百度', link: '/ai/baidu/' },
         ]
       },
       {
