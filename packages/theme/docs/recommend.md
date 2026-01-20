@@ -27,7 +27,7 @@ outline: [2,4]
 npm create @sugarat/theme@latest
 ```
 
-GitHub: [ATQQ/sugar-blog](https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/packages/theme)
+GitHub: [ATQQ/sugar-blog](https://github.com/zhouxun0803/tree/master/packages/theme)
 
 ### [查尔斯的知识库](https://blog.charles7c.top/)
 基于 VitePress 打造的知识库。
@@ -106,7 +106,7 @@ GitHub: [vitepress-theme-teek](https://github.com/Kele-Bingtang/vitepress-theme-
 
 ![](https://img.cdn.sugarat.top/mdImg/sugar/9238f8f2ddebc56daba7c45819b88974~fmt.webp)
 
-#### [rss](https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/packages/vitepress-plugin-rss) - 订阅链接生成
+#### [rss](https://github.com/zhouxun0803/tree/master/packages/vitepress-plugin-rss) - 订阅链接生成
 
 给 vitepress 提供 RSS 订阅源链接生成支持。
 
@@ -137,7 +137,7 @@ GitHub: [vitepress-theme-teek](https://github.com/Kele-Bingtang/vitepress-theme-
 
 基于 [flexsearch](https://github.com/nextapps-de/flexsearch) 实现的离线全文搜索插件。
 
-#### [pagefind](https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/packages/vitepress-plugin-pagefind)
+#### [pagefind](https://github.com/zhouxun0803/tree/master/packages/vitepress-plugin-pagefind)
 
 基于 [pagefind](https://github.com/cloudcannon/pagefind) 实现的离线全文搜索插件。
 

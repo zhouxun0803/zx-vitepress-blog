@@ -1,6 +1,6 @@
 # vitepress-plugin-rss
 
-English | [简体中文](https://github.com/zhouxun0803/zx-vitepress-blog/blob/master/packages/vitepress-plugin-rss/README-zh.md)
+English | [简体中文](https://github.com/zhouxun0803/blob/master/packages/vitepress-plugin-rss/README-zh.md)
 
 
 ## Usage

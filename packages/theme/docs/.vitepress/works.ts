@@ -66,7 +66,7 @@ const workConfig: Theme.UserWorks = {
       time: {
         start: '2020/02/18'
       },
-      github: 'https://github.com/zhouxun0803/zx-vitepress-blog',
+      github: 'https://github.com/zhouxun0803',
       url: 'https://sugarat.top',
       tags: ['Vitepress', 'Vue'],
       cover:

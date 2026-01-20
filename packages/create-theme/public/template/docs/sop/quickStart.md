@@ -37,7 +37,7 @@ npm install -g bun
 :::
 
 ## 快速创建项目 
-使用 [@sugarat/create-theme](https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/packages/create-theme) 快速创建模板项目
+使用 [@sugarat/create-theme](https://github.com/zhouxun0803/tree/master/packages/create-theme) 快速创建模板项目
 
 :::code-group
 ```sh [npm]

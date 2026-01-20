@@ -20,7 +20,7 @@ description: 开发了一个适用于 VitePress 的图片预览插件 vitepress-
 
 接下来先简单介绍一下用法，再快速讲解核心原理。
 
-插件开发基于之前创建的一个通用模板，[vitepress-plugin-slot-inject-template](https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/template/vitepress-plugin-slot-inject-template)，在模板的基础上，**插件95%的代码由 Gemini 3.0 生成。**
+插件开发基于之前创建的一个通用模板，[vitepress-plugin-slot-inject-template](https://github.com/zhouxun0803/tree/master/template/vitepress-plugin-slot-inject-template)，在模板的基础上，**插件95%的代码由 Gemini 3.0 生成。**
 
 ## 如何使用
 
@@ -168,12 +168,12 @@ function previewImage(e: Event) {
 
 ## 插件模板介绍
 
-在开发插件的过程中，笔者把此类基于 slot 位置注入的插件分离了一个模板 [vitepress-plugin-slot-inject-template](https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/template/vitepress-plugin-slot-inject-template)
+在开发插件的过程中，笔者把此类基于 slot 位置注入的插件分离了一个模板 [vitepress-plugin-slot-inject-template](https://github.com/zhouxun0803/tree/master/template/vitepress-plugin-slot-inject-template)
 
 有相关诉求的朋友，可以基于此模板，配合 AI 快速的开发各种基于插槽就可以实现的组件能力。
 
 ## 最后
-插件完整源码 [vitepress-plugin-image-preview](https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/packages/vitepress-plugin-image-preview)
+插件完整源码 [vitepress-plugin-image-preview](https://github.com/zhouxun0803/tree/master/packages/vitepress-plugin-image-preview)
 
 **最后再感叹一句，AI 太牛逼了，效率起飞。**
 

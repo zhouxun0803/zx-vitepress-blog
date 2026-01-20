@@ -24,7 +24,7 @@ export default defineConfig({
   head: [
     // 配置网站的图标（显示在浏览器的 tab 上）
     // ['link', { rel: 'icon', href: `${base}favicon.ico` }], // 修改了 base 这里也需要同步修改
-    ['link', { rel: 'icon', href: '/zx-vitepress-blog/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
   themeConfig: {
     // 展示 2,3 级标题在目录中
@@ -38,20 +38,20 @@ export default defineConfig({
     lastUpdatedText: '上次更新于',
 
     // 设置logo
-    logo: '/zx-vitepress-blog/logo.png',
+    logo: '/logo.png',
     // editLink: {
     //   pattern:
-    //     'https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/packages/blogpress/:path',
+    //     'https://github.com/zhouxun0803/tree/master/packages/blogpress/:path',
     //   text: '去 GitHub 上编辑内容'
     // },
     nav: [
       { text: '首页', link: '/' },
-      { text: '关于作者', link: 'https://zhouxun0803.github.io/zx-vitepress-blog/aboutme.html' }
+      { text: '关于作者', link: 'http://devzx.top/aboutme.html' }
     ],
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/packages/theme'
+        link: 'https://github.com/zhouxun0803/tree/master/packages/theme'
       }
     ]
   }

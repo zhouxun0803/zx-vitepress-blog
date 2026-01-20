@@ -4,7 +4,7 @@ import { blogTheme } from './blog-theme'
 
 export default defineConfig({
   extends: blogTheme,
-  // base: '/zx-vitepress-blog',
+  // base: '',
   metaChunk: true,
   srcExclude: ['CHANGELOG.md', 'redirect-tag.md'],
   markdown: {
@@ -14,7 +14,7 @@ export default defineConfig({
   },
   ignoreDeadLinks: true,
   sitemap: {
-    hostname: 'https://zhouxun0803.github.io/zx-vitepress-blog/',
+    hostname: 'http://devzx.top/',
   },
   lang: 'zh-cn',
   title: '勋染',
@@ -24,21 +24,21 @@ export default defineConfig({
     // <meta name="baidu-site-verification" content="codeva-b08avp82Uj" />
     ['meta', { name: 'baidu-site-verification', content: 'codeva-b08avp82Uj' }],
     ['meta', { name: 'theme-color', content: '#ffffff' }],
-    ['link', { rel: 'icon', href: '/zx-vitepress-blog/favicon.ico', type: 'image/png' }],
+    ['link', { rel: 'icon', href: '/favicon.ico', type: 'image/png' }],
     [
       'link',
       {
         rel: 'alternate icon',
-        href: '/zx-vitepress-blog/favicon.ico',
+        href: '/favicon.ico',
         type: 'image/png',
         sizes: '16x16'
       }
     ],
     ['meta', { name: 'author', content: '勋染' }],
-    ['link', { rel: 'mask-icon', href: '/zx-vitepress-blog/favicon.ico', color: '#ffffff' }],
+    ['link', { rel: 'mask-icon', href: '/favicon.ico', color: '#ffffff' }],
     [
       'link',
-      { rel: 'apple-touch-icon', href: '/zx-vitepress-blog/favicon.ico', sizes: '180x180' }
+      { rel: 'apple-touch-icon', href: '/favicon.ico', sizes: '180x180' }
     ],
   ],
   vite: {
@@ -79,7 +79,7 @@ export default defineConfig({
     logo: '/logo.png',
     // editLink: {
     //   pattern:
-    //     'https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/packages/blogpress/:path',
+    //     'https://github.com/zhouxun0803/tree/master/packages/blogpress/:path',
     //   text: '去 GitHub 上编辑内容'
     // },
     nav: [
@@ -165,7 +165,7 @@ export default defineConfig({
         items: [
           {
             text: 'GitHub',
-            link: 'https://github.com/zhouxun0803/zx-vitepress-blog'
+            link: 'https://github.com/zhouxun0803'
           },
           {
             text: '博客园',
@@ -214,7 +214,7 @@ export default defineConfig({
       // }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/zhouxun0803/zx-vitepress-blog' },
+      { icon: 'github', link: 'https://github.com/zhouxun0803' },
       {
         icon: 'x',
         link: 'https://x.com/Mr_XiaoZou'

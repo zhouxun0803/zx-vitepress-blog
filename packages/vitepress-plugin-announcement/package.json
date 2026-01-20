@@ -4,13 +4,13 @@
   "description": "vitepress plugin, Announcement, 公告窗口",
   "author": "sugar",
   "license": "MIT",
-  "homepage": "https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/packages/vitepress-plugin-announcement",
+  "homepage": "https://github.com/zhouxun0803/tree/master/packages/vitepress-plugin-announcement",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhouxun0803/zx-vitepress-blog.git"
+    "url": "git+https://github.com/zhouxun0803.git"
   },
   "bugs": {
-    "url": "https://github.com/zhouxun0803/zx-vitepress-blog/issues"
+    "url": "https://github.com/zhouxun0803/issues"
   },
   "keywords": [
     "vitepress",

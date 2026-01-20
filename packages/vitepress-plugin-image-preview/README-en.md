@@ -1,10 +1,10 @@
 # vitepress-plugin-image-preview
 
-English | [简体中文](https://github.com/zhouxun0803/zx-vitepress-blog/blob/master/packages/vitepress-plugin-image-preview/README.md)
+English | [简体中文](https://github.com/zhouxun0803/blob/master/packages/vitepress-plugin-image-preview/README.md)
 
 VitePress Image Preview Plugin, style referenced from [Element Plus Image Viewer](https://element-plus.org/en-US/component/image#image-preview).
 
-![Image Preview](https://github.com/zhouxun0803/zx-vitepress-blog/blob/master/packages/vitepress-plugin-image-preview/image.png?raw=true)
+![Image Preview](https://github.com/zhouxun0803/blob/master/packages/vitepress-plugin-image-preview/image.png?raw=true)
 
 ## Install
 

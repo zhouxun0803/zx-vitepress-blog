@@ -1,6 +1,6 @@
 # vitepress-plugin-pagefind
 
-English | [简体中文](https://github.com/zhouxun0803/zx-vitepress-blog/blob/master/packages/vitepress-plugin-pagefind/README-zh.md)
+English | [简体中文](https://github.com/zhouxun0803/blob/master/packages/vitepress-plugin-pagefind/README-zh.md)
 
 Offline full-text search based on [pagefind](https://github.com/cloudcannon/pagefind) implementation.
 
@@ -446,4 +446,4 @@ Thanks to the following libraries for inspiration.
 * [pagefind](https://github.com/cloudcannon/pagefind)
 * [vitepress-plugin-search](https://github.com/emersonbottero/vitepress-plugin-search)
 * [vue-command-palette](https://github.com/xiaoluoboding/vue-command-palette)
-* [@sugarat/theme](https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/packages/theme)
+* [@sugarat/theme](https://github.com/zhouxun0803/tree/master/packages/theme)

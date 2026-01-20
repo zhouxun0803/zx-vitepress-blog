@@ -130,7 +130,7 @@ tail -f auto-commit-daemon.log
 sidebar: false
 title: 关于自己
 date: 2021-12-11  ← 自动更新这里
-cover: /zx-vitepress-blog/mp-code.png
+cover: /mp-code.png
 tags:
  - 其它
 ---

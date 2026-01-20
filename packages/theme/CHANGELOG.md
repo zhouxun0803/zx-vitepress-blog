@@ -190,7 +190,7 @@
 
 - feat: 支持隐藏 recommend 部分的日期
 - feat: PC 文章列表 title 添加 span 包裹
-- chore: 新增 [vitepress-plugin-51la](https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/packages/vitepress-plugin-51la) 插件
+- chore: 新增 [vitepress-plugin-51la](https://github.com/zhouxun0803/tree/master/packages/vitepress-plugin-51la) 插件
 
 ## 0.4.10
 
@@ -527,7 +527,7 @@ cover: /abc.png
 ### Patch Changes
 
 - feat: 友链支持随机顺序和滚动
-- fix: tag error ([#154](https://github.com/zhouxun0803/zx-vitepress-blog/pull/154)) ([@itcatplayit](https://github.com/itcatplayit))
+- fix: tag error ([#154](https://github.com/zhouxun0803/pull/154)) ([@itcatplayit](https://github.com/itcatplayit))
 - chore: update rc31
 - chore: devtool warn fix
 
@@ -609,7 +609,7 @@ cover: /abc.png
 
 ### Patch Changes
 
-- fix: setActiveLink [#138](https://github.com/zhouxun0803/zx-vitepress-blog/issues/138)
+- fix: setActiveLink [#138](https://github.com/zhouxun0803/issues/138)
 - Updated dependencies
   - vitepress-plugin-pagefind@0.2.10
 
@@ -874,7 +874,7 @@ cover: /abc.png
 
 ### Patch Changes
 
-- feat: 分离可独立使用的的 搜索插件[pagefind](https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/packages/vitepress-plugin-pagefind)
+- feat: 分离可独立使用的的 搜索插件[pagefind](https://github.com/zhouxun0803/tree/master/packages/vitepress-plugin-pagefind)
 - feat: 搜索框展示 UI 优化，支持定制文案，展示适配移动端
 - fix: 搜索结果未全部展示
 - fix: 中文文件名文章时间显示 NaN

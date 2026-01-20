@@ -71,16 +71,16 @@ sidebar: false
 
 ## 贡献者们
 
-感谢所有贡献过代码的 [开发者](https://github.com/zhouxun0803/zx-vitepress-blog/graphs/contributors)。
+感谢所有贡献过代码的 [开发者](https://github.com/zhouxun0803/graphs/contributors)。
 
-<a target="_blank" href="https://github.com/zhouxun0803/zx-vitepress-blog/graphs/contributors">
+<a target="_blank" href="https://github.com/zhouxun0803/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=atqq/sugar-blog" />
 </a>
 
 ## 主题相关资源
 * 主题地址：https://theme.sugarat.top/
 * 主题包：[@sugarat/theme](https://www.npmjs.com/package/@sugarat/theme)
-* 项目地址：https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/packages/theme
+* 项目地址：https://github.com/zhouxun0803/tree/master/packages/theme
 * 作者博客地址：https://sugarat.top
 
 

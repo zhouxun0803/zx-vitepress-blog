@@ -41,7 +41,7 @@ export const themeEN = defineLocaleConfig({
   buttonAfterArticle: {
     openTitle: 'By Me A ☕️',
     closeTitle: 'Bye Bye 👋🏻',
-    content: '<img src="/zx-vitepress-blog/appreciation-code.jpg">',
+    content: '<img src="/appreciation-code.jpg">',
     icon: 'wechatPay',
   },
   friend: [{
@@ -59,7 +59,7 @@ export const themeEN = defineLocaleConfig({
   authorList: [
     {
       nickname: 'sugar',
-      url: 'https://zhouxun0803.github.io/zx-vitepress-blog/aboutme.html',
+      url: 'http://devzx.top/aboutme.html',
       des: '你的指尖,拥有改变世界的力量'
     }
   ],

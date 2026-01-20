@@ -82,7 +82,7 @@ export const blogTheme = getThemeConfig({
   authorList: [
     {
       nickname: '勋染',
-      url: 'https://zhouxun0803.github.io/zx-vitepress-blog/aboutme.html',
+      url: 'http://devzx.top/aboutme.html',
       des: '你的指尖,拥有改变世界的力量'
     }
   ],
@@ -123,7 +123,7 @@ export const blogTheme = getThemeConfig({
   buttonAfterArticle: {
     openTitle: '投"币"支持',
     closeTitle: '下次一定',
-    content: '<img src="/zx-vitepress-blog/appreciation-code.jpg">',
+    content: '<img src="/appreciation-code.jpg">',
     icon: 'wechatPay',
   },
   popover: {
@@ -133,7 +133,7 @@ export const blogTheme = getThemeConfig({
       { type: 'text', content: '**👇公众号👇---👇 微信 👇**' },
       {
         type: 'image',
-        src: '/zx-vitepress-blog/fmt-code.png',
+        src: '/fmt-code.png',
         alt: '勋染微信二维码'
       },
       {
@@ -166,7 +166,7 @@ export const blogTheme = getThemeConfig({
           { type: 'text', content: '👇 Wechat 👇' },
           {
             type: 'image',
-            src: '/zx-vitepress-blog/fmt-code.png'
+            src: '/fmt-code.png'
           },
           {
             type: 'button',

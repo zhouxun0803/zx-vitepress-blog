@@ -7,10 +7,10 @@
   "homepage": "https://theme.sugarat.top",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhouxun0803/zx-vitepress-blog.git"
+    "url": "git+https://github.com/zhouxun0803.git"
   },
   "bugs": {
-    "url": "https://github.com/zhouxun0803/zx-vitepress-blog/issues"
+    "url": "https://github.com/zhouxun0803/issues"
   },
   "keywords": [
     "vitepress",

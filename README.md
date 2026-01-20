@@ -8,7 +8,7 @@
 <img src="packages/blogpress/public/home.png">
 
 ## 预览地址
-[勋染的个人博客](https://zhouxun0803.github.io/zx-vitepress-blog/)
+[勋染的个人博客](http://devzx.top/)
 
 ## 仓库介绍
 
@@ -94,7 +94,7 @@ pnpm dev:theme
 <!-- ## :coffee:赞赏
 |                                  微信                                   |                                微信赞赏                                 |                                 支付宝                                  |
 | :---------------------------------------------------------------------: | :---------------------------------------------------------------------: | :---------------------------------------------------------------------: |
-| ![](https://img.cdn.sugarat.top/mdImg/MTY1MTU0NzQ0MjMzNA==651547442334) | ![](/zx-vitepress-blog/zx-vitepress-blog/appreciation-code.jpg) | ![](https://img.cdn.sugarat.top/mdImg/MTY1MTU0NzQyOTg0OA==651547429848) |
+| ![](https://img.cdn.sugarat.top/mdImg/MTY1MTU0NzQ0MjMzNA==651547442334) | ![](/appreciation-code.jpg) | ![](https://img.cdn.sugarat.top/mdImg/MTY1MTU0NzQyOTg0OA==651547429848) |
 
 ## Star History
 
@@ -111,7 +111,7 @@ pnpm dev:theme
 
 Thanks to all the contributors!
 
-<a href="https://github.com/zhouxun0803/zx-vitepress-blog/graphs/contributors">
+<a href="https://github.com/zhouxun0803/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=atqq/sugar-blog" />
 </a>
 

@@ -45,7 +45,7 @@ sidebar: false
   * [x] 结果优化，支持预览
   * [x] 搜索关键词没高亮
 * [x] 文件重载，刷新问题
-* [x] [添加切换颜色模式时使用过渡动画](https://github.com/zhouxun0803/zx-vitepress-blog/pull/185)
+* [x] [添加切换颜色模式时使用过渡动画](https://github.com/zhouxun0803/pull/185)
 * [x] SSG优化，水合优化
 * [x] 侧栏切换页面闪烁
 * [x] 问题修复：水合问题

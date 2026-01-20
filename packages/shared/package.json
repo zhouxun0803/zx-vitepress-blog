@@ -4,13 +4,13 @@
   "description": "@sugarat/theme-shared",
   "author": "sugar",
   "license": "MIT",
-  "homepage": "https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/packages/shared",
+  "homepage": "https://github.com/zhouxun0803/tree/master/packages/shared",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhouxun0803/zx-vitepress-blog.git"
+    "url": "git+https://github.com/zhouxun0803.git"
   },
   "bugs": {
-    "url": "https://github.com/zhouxun0803/zx-vitepress-blog/issues"
+    "url": "https://github.com/zhouxun0803/issues"
   },
   "keywords": [
     "shared",

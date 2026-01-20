@@ -210,7 +210,7 @@ tips：由于 JSON.stringify 默认不会处理函数，这里就偷懒用一下
 至此，关键的两步就算搞定了，剩余的工作就是具体组件的样式和交互实现开发了，按常规 Vue 组件开发即可。
 
 ## 插件模板介绍
-在开发插件的过程中，笔者把此类基于 slot 位置注入的插件分离了一个模板 [vitepress-plugin-slot-inject-template](https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/template/vitepress-plugin-slot-inject-template)
+在开发插件的过程中，笔者把此类基于 slot 位置注入的插件分离了一个模板 [vitepress-plugin-slot-inject-template](https://github.com/zhouxun0803/tree/master/template/vitepress-plugin-slot-inject-template)
 
 ### 目录结构
 ```sh
@@ -238,4 +238,4 @@ tips：由于 JSON.stringify 默认不会处理函数，这里就偷懒用一下
 
 后续继续按照 [vitepress 插件开发计划](https://sugarat.top/essay/dev/vitepress-plugins.html) 推进，将开发过程内容整理成教程与插件模板。
 
-插件完整源码 [vitepress-plugin-announcement](https://github.com/zhouxun0803/zx-vitepress-blog/tree/master/packages/vitepress-plugin-announcement)
+插件完整源码 [vitepress-plugin-announcement](https://github.com/zhouxun0803/tree/master/packages/vitepress-plugin-announcement)
