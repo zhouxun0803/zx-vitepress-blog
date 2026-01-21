@@ -32,7 +32,7 @@ TODO
 
 Base 北京/上海。
 
-长期招前端&客户端，发简历到邮箱 **engineerzjl@foxmail.com** 进行内推。
+长期招前端&客户端，发简历到邮箱 **dev.zhouxun@outlook.com** 进行内推。
 
 也可加微信小窗私聊，进一步了解岗位部门相关信息
 

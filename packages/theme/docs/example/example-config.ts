@@ -3,7 +3,7 @@ import { defineExamples } from './util'
 export default defineExamples([
   {
     cover: 'https://img.cdn.sugarat.top/mdImg/MTY3MzE3MDUxOTMwMw==673170519303',
-    link: 'https://sugarat.top',
+    link: 'https://devzx.top',
     name: '勋染',
     desc: '记录随笔与学习笔记',
     avatar: 'https://cdn.upyun.sugarat.top/avatar/blog/zlyst-avatar.jpeg',

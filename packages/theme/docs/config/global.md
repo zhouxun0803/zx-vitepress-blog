@@ -1117,7 +1117,7 @@ const blogTheme = getThemeConfig({
       },
       {
         type: 'button',
-        link: 'https://sugarat.top',
+        link: 'https://devzx.top',
         content: '作者博客',
         props: {
           round: true
@@ -1357,7 +1357,7 @@ const blogTheme = getThemeConfig({
       des: '你的指尖用于改变世界的力量',
       avatar:
         'https://img.cdn.sugarat.top/mdImg/MTY3NDk5NTE2NzAzMA==674995167030',
-      url: 'https://sugarat.top'
+      url: 'https://devzx.top'
     },
     {
       nickname: 'Vitepress',
@@ -1593,7 +1593,7 @@ type RSSOptions = Omit<FeedOptions, 'id'> & {
   id?: string
   /**
    * 你的站点地址
-   * @example 'https://sugarat.top'
+   * @example 'https://devzx.top'
    */
   baseUrl: string
   /**

@@ -193,7 +193,7 @@ Vue技术栈的项目，需要更友好的TS支持方式，就学习了`Vue-Comp
   * 设计模式
 * 每月学习一门有深度/干货的技术课程
 * 每周1-2道力扣
-* 完善[个人博客](https://sugarat.top/)中前端面试（校招为主）考点的相关文章整理与撰写，帮助更多的朋友，学弟，学妹更好的学习与巩固大前端知识
+* 完善[个人博客](https://devzx.top/)中前端面试（校招为主）考点的相关文章整理与撰写，帮助更多的朋友，学弟，学妹更好的学习与巩固大前端知识
 * 完善个人公众号
 
 ### 长远目标
@@ -218,7 +218,7 @@ Code A Better Life，Code The Future
 ## 招聘
 美团的团队(到店餐饮&前端技术组)北京侧还有校招的 HC，北京上海都有社招的 HC，如果有想法的朋友可以直接发送简历到我的
 
-[邮箱:engineerzjl@foxmail.com](mailto:engineerzjl@foxmail.com)
+[邮箱:dev.zhouxun@outlook.com](mailto:dev.zhouxun@outlook.com)
 
 这里有超nice的TL与同事
 

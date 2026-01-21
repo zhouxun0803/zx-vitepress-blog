@@ -14,7 +14,7 @@ pnpm add vitepress-plugin-rss
 ```ts
 import { RSSOptions, RssPlugin } from 'vitepress-plugin-rss'
 
-const baseUrl = 'https://sugarat.top'
+const baseUrl = 'https://devzx.top'
 const RSS: RSSOptions = {
   title: '勋染',
   baseUrl,
@@ -198,15 +198,15 @@ const RSS: RSSOptions = {
   language: 'zh-cn',
   author: { // Feed 的全局作者信息；文章的默认作者信息
     name: '勋染',
-    email: 'engineerzjl@foxmail.com',
-    link: 'https://sugarat.top'
+    email: 'dev.zhouxun@outlook.com',
+    link: 'https://devzx.top'
   },
   icon: true,
   authors: [ // 作者信息列表，文章可按 name 匹配自动补全其他信息
     {
       name: '勋染',
-      email: 'engineerzjl@foxmail.com',
-      link: 'https://sugarat.top'
+      email: 'dev.zhouxun@outlook.com',
+      link: 'https://devzx.top'
     },
     {
       name: 'sugar',
@@ -250,12 +250,12 @@ export type RSSOptions = Omit<FeedOptions, 'id'> & {
   filter?: (value: PostInfo, index: number, array: PostInfo[]) => boolean
   /**
    * 你的站点地址
-   * @example 'https://sugarat.top'
+   * @example 'https://devzx.top'
    */
   baseUrl: string
   /**
    * 相对路径静态资源的基础地址（图片）
-   * @example 'https://sugarat.top'
+   * @example 'https://devzx.top'
    * @default baseUrl
    */
   assetsBaseUrl?: string

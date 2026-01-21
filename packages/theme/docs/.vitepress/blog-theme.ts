@@ -98,7 +98,7 @@ export const blogTheme = getThemeConfig({
       des: '你的指尖,拥有改变世界的力量',
       avatar:
         'https://img.cdn.sugarat.top/mdImg/MTY3NDk5NTE2NzAzMA==674995167030~fmt.webp',
-      url: 'https://sugarat.top'
+      url: 'https://devzx.top'
     },
     {
       nickname: 'Vitepress',
@@ -148,7 +148,7 @@ export const blogTheme = getThemeConfig({
       {
         type: 'button',
         content: '作者博客',
-        link: 'https://sugarat.top'
+        link: 'https://devzx.top'
       },
       {
         type: 'button',
@@ -171,7 +171,7 @@ export const blogTheme = getThemeConfig({
           {
             type: 'button',
             content: 'Author Blog',
-            link: 'https://sugarat.top'
+            link: 'https://devzx.top'
           },
         ]
       }

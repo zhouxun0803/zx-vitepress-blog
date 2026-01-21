@@ -116,7 +116,7 @@ getThemeConfig({
       {
         type: 'button',
         content: '作者博客',
-        link: 'https://sugarat.top'
+        link: 'https://devzx.top'
       },
       {
         type: 'button',

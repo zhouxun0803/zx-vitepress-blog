@@ -4,7 +4,7 @@ import { getThemeConfig } from '@sugarat/theme/node'
 // 开启RSS支持（RSS配置）
 // import type { Theme } from '@sugarat/theme'
 
-// const baseUrl = 'https://sugarat.top'
+// const baseUrl = 'https://devzx.top'
 // const RSS: Theme.RSSOptions = {
 //   title: '勋染',
 //   baseUrl,
@@ -12,7 +12,7 @@ import { getThemeConfig } from '@sugarat/theme/node'
 //   description: '你的指尖,拥有改变世界的力量（大前端相关技术分享）',
 //   language: 'zh-cn',
 //   image: 'https://img.cdn.sugarat.top/mdImg/MTY3NDk5NTE2NzAzMA==674995167030',
-//   favicon: 'https://sugarat.top/favicon.ico',
+//   favicon: 'https://devzx.top/favicon.ico',
 // }
 
 // 所有配置项，详见文档: https://theme.sugarat.top/
@@ -55,7 +55,7 @@ const blogTheme = getThemeConfig({
       des: '你的指尖用于改变世界的力量',
       avatar:
         'https://img.cdn.sugarat.top/mdImg/MTY3NDk5NTE2NzAzMA==674995167030~fmt.webp',
-      url: 'https://sugarat.top',
+      url: 'https://devzx.top',
     },
     {
       nickname: 'Vitepress',
@@ -88,7 +88,7 @@ const blogTheme = getThemeConfig({
       {
         type: 'button',
         content: '作者博客',
-        link: 'https://sugarat.top'
+        link: 'https://devzx.top'
       },
       {
         type: 'button',

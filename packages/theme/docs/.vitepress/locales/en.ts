@@ -49,7 +49,7 @@ export const themeEN = defineLocaleConfig({
     des: 'Your fingertips have the power to change the world.',
     avatar:
       'https://img.cdn.sugarat.top/mdImg/MTY3NDk5NTE2NzAzMA==674995167030~fmt.webp',
-    url: 'https://sugarat.top'
+    url: 'https://devzx.top'
   }, {
     nickname: 'Vitepress',
     des: 'Vite & Vue Powered Static Site Generator',

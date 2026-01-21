@@ -39,7 +39,7 @@
 
 ### Referer 限制
 
-通过观察这些资源的请求头，发现 `Referer` 和请求资源一致，通常情况下，不应该这样，应该是笔者的博客地址`https://sugarat.top`。
+通过观察这些资源的请求头，发现 `Referer` 和请求资源一致，通常情况下，不应该这样，应该是笔者的博客地址`https://devzx.top`。
 
 ![](https://cdn.upyun.sugarat.top/mdImg/sugar/c6a33d8aa82bea53371ec92e3acaf469)
 

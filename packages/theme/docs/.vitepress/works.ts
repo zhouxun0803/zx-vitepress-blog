@@ -67,7 +67,7 @@ const workConfig: Theme.UserWorks = {
         start: '2020/02/18'
       },
       github: 'https://github.com/zhouxun0803',
-      url: 'https://sugarat.top',
+      url: 'https://devzx.top',
       tags: ['Vitepress', 'Vue'],
       cover:
             'https://img.cdn.sugarat.top/mdImg/MTY3MzE3MDUxOTMwMw==673170519303',

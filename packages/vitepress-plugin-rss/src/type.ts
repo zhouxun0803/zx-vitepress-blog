@@ -12,12 +12,12 @@ export type RSSOptions = Omit<FeedOptions, 'id'> & {
   filter?: (value: PostInfo, index: number, array: PostInfo[]) => boolean
   /**
    * 你的站点地址
-   * @example 'https://sugarat.top'
+   * @example 'https://devzx.top'
    */
   baseUrl: string
   /**
    * 相对路径静态资源的基础地址（图片）
-   * @example 'https://sugarat.top'
+   * @example 'https://devzx.top'
    * @default baseUrl
    */
   assetsBaseUrl?: string

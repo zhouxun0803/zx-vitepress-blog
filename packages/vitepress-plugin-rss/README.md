@@ -15,7 +15,7 @@ add basic config
 ```ts
 import { RSSOptions, RssPlugin } from 'vitepress-plugin-rss'
 
-const baseUrl = 'https://sugarat.top'
+const baseUrl = 'https://devzx.top'
 const RSS: RSSOptions = {
   title: '勋染',
   baseUrl,
@@ -199,15 +199,15 @@ const RSS: RSSOptions = {
   language: 'zh-cn',
   author: { // Global feed author; also the default author for articles
     name: '勋染',
-    email: 'engineerzjl@foxmail.com',
-    link: 'https://sugarat.top'
+    email: 'dev.zhouxun@outlook.com',
+    link: 'https://devzx.top'
   },
   icon: true,
   authors: [ // Author list; articles can match by name to auto-fill other fields
     {
       name: '勋染',
-      email: 'engineerzjl@foxmail.com',
-      link: 'https://sugarat.top'
+      email: 'dev.zhouxun@outlook.com',
+      link: 'https://devzx.top'
     },
     {
       name: 'sugar',
@@ -275,12 +275,12 @@ export type RSSOptions = Omit<FeedOptions, 'id'> & {
   filter?: (value: PostInfo, index: number, array: PostInfo[]) => boolean
   /**
    * your site address
-   * @example 'https://sugarat.top'
+   * @example 'https://devzx.top'
    */
   baseUrl: string
   /**
    * assetsBaseUrl Image resource base address（relative path static resource base address）
-   * @example 'https://sugarat.top'
+   * @example 'https://devzx.top'
    * @default baseUrl
    */
   assetsBaseUrl?: string

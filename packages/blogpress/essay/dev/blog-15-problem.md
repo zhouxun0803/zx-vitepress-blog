@@ -6,13 +6,13 @@ description: 最近看到的独立博客里比较火的一个问卷，本文是�
 >原 [问卷链接](https://yayu.net/4626.html)
 
 ## 1、你的博客更新频率是多少？
-固定周末产出 [大前端技术周刊](https://sugarat.top/weekly/)；
+固定周末产出 [大前端技术周刊](https://devzx.top/weekly/)；
 
 其它看时间将开发和工作中遇到的问题，解决的经验记录分享一下
 
 ## 2、你的博客上次更新是什么时候？
 
-不算周刊的话是 2024-10-06，折腾了一下[浏览器中生成 OSS 令牌 | Web Crypto API](https://sugarat.top/technology/learn/oss-token-generate-web.html)，将令牌生成逻辑放在浏览器里。
+不算周刊的话是 2024-10-06，折腾了一下[浏览器中生成 OSS 令牌 | Web Crypto API](https://devzx.top/technology/learn/oss-token-generate-web.html)，将令牌生成逻辑放在浏览器里。
 
 ## 3、你的博客文章是原创的吗？
 
@@ -24,7 +24,7 @@ description: 最近看到的独立博客里比较火的一个问卷，本文是�
 
 ## 5、你上次换博客主题/程序是什么时候？
 
-去年吧（2023-02-05），之前有写过 [新博客主题](https://sugarat.top/technology/works/theme.html) 的介绍文章。
+去年吧（2023-02-05），之前有写过 [新博客主题](https://devzx.top/technology/works/theme.html) 的介绍文章。
 
 之前使用 VuePress + Reco 主题。但随着文章数增加，启动比较慢，开发体验不佳。
 

@@ -225,7 +225,7 @@ find "." -name .DS_Store | xargs rm
 ### 升级 HTTP3
 http3 基于 QUIC 协议，QUIC 又基于 UDP，所以 443 端口得先开放一下 UDP 协议。
 
-然后再找个网站 https://http3.wcode.net/?q=https://sugarat.top 检测了一下。
+然后再找个网站 https://http3.wcode.net/?q=https://devzx.top 检测了一下。
 
 ![](https://cdn.upyun.sugarat.top/mdImg/sugar/79e617c0ed7b6eaa71a784f2c8b75491)
 

@@ -11,7 +11,7 @@ description: 使用 VitePress 作为个人博客的站点越来越多，RSS支�
 
 ![](https://img.cdn.sugarat.top/mdImg/MTY5MjYyNTQwOTU1Mw==692625409553)
 
-恰好[我的博客](https://sugarat.top/)也是基于 [VitePress](https://vitepress.dev/) 搭建的，就想看看能不能也实现这个功能呢？
+恰好[我的博客](https://devzx.top/)也是基于 [VitePress](https://vitepress.dev/) 搭建的，就想看看能不能也实现这个功能呢？
 
 动手前先搜了一下，先是看到了[vitepress-blog-zaun](https://github.com/clark-cui/vitepress-blog-zaun)上有这个RSS的实现支持，再搜了一下发现Vue的官方博客 [vuejs/blog](https://github.com/vuejs/blog/tree/main) 也是用的这样的实现
 
@@ -33,7 +33,7 @@ pnpm add vitepress-plugin-rss
 下面是最基础的使用配置
 ```ts
 import { RssPlugin, RSSOptions } from 'vitepress-plugin-rss'
-const baseUrl = 'https://sugarat.top'
+const baseUrl = 'https://devzx.top'
 const RSS: RSSOptions = {
   title: '勋染',
   baseUrl,

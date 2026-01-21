@@ -10,7 +10,7 @@ hidden: true
 
 包含但不限于 `优质文章`，`开源库`，`工具网站`，`有意思的知识`
 
-更新时间：周末发布，[RSS订阅](https://sugarat.top/weekly.rss)
+更新时间：周末发布，[RSS订阅](https://devzx.top/weekly.rss)
 
 <!-- TODO：自动生成可翻页目录 -->
 ## 2025

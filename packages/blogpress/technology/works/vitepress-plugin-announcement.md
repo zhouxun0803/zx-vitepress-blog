@@ -50,7 +50,7 @@ export default defineConfig({
           {
             type: 'button',
             content: '按钮',
-            link: 'https://sugarat.top'
+            link: 'https://devzx.top'
           },
         ],
       })
@@ -236,6 +236,6 @@ tips：由于 JSON.stringify 默认不会处理函数，这里就偷懒用一下
 ## 最后
 >样式实现参考了 [reco-1.x 主题](https://github.com/vuepress-reco/vuepress-theme-reco-1.x) 中的 [@vuepress-reco/vuepress-plugin-bulletin-popover](https://github.com/vuepress-reco/vuepress-theme-reco-1.x/tree/master/packages/%40vuepress-reco/vuepress-plugin-bulletin-popover) 插件
 
-后续继续按照 [vitepress 插件开发计划](https://sugarat.top/essay/dev/vitepress-plugins.html) 推进，将开发过程内容整理成教程与插件模板。
+后续继续按照 [vitepress 插件开发计划](https://devzx.top/essay/dev/vitepress-plugins.html) 推进，将开发过程内容整理成教程与插件模板。
 
 插件完整源码 [vitepress-plugin-announcement](https://github.com/zhouxun0803/tree/master/packages/vitepress-plugin-announcement)

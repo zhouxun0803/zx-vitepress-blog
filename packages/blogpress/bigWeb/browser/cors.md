@@ -17,16 +17,16 @@ categories:
 
 **示例**
 
-以当前页面为例：`https://sugarat.top/bigWeb/browser/cros.html`
+以当前页面为例：`https://devzx.top/bigWeb/browser/cros.html`
 * 协议：https
 * 域名：sugarat.top
 * 端口：443 (https默认443，http默认80)
 
 |            URL             | 是否同源 |         理由          |
 | :------------------------: | :------: | :-------------------: |
-|    https://sugarat.top     |    ✅     | 协议,域名,端口 均一致 |
+|    https://devzx.top     |    ✅     | 协议,域名,端口 均一致 |
 |     http://sugarat.top     |    ❌     |   协议，端口不一致    |
-|  https://sugarat.top:8080  |    ❌     |      端口 不一致      |
+|  https://devzx.top:8080  |    ❌     |      端口 不一致      |
 |   https://ep.sugarat.top   |    ❌     |      域名 不一致      |
 | https://imgbed.sugarat.top |    ❌     |      域名 不一致      |
 
@@ -108,7 +108,7 @@ If an opaque response serves your needs, set the request's mode to 'no-cors' to 
 
 ```html
 <body>
-    <iframe src="https://sugarat.top/" width="100%" height="1000px" frameborder="0"></iframe>
+    <iframe src="https://devzx.top/" width="100%" height="1000px" frameborder="0"></iframe>
         
     <script>
         const iframe = document.getElementsByTagName('iframe')[0]
@@ -133,13 +133,13 @@ Cookie与此息息相关，Cookie实际上遵守的是“同站”策略
 
 tips: 这里的一级,二级域名主要指计算机网络中规定的，与通常业务开发中所指的一二级域名有些许差异
 
-以当前页面为例：`https://sugarat.top/bigWeb/browser/cros.html`
+以当前页面为例：`https://devzx.top/bigWeb/browser/cros.html`
 * eTLD: .top
 * eTLD+1: sugarat.top
 
 |             URL             | 是否同站 |    理由     |
 | :-------------------------: | :------: | :---------: |
-|     https://sugarat.top     |    ✅     | eTLD+1一致  |
+|     https://devzx.top     |    ✅     | eTLD+1一致  |
 |    http://ep.sugarat.top    |    ✅     | eTLD+1一致  |
 | https://ep.sugarat.top:8080 |    ✅     | eTLD+1一致  |
 |      https://baidu.com      |    ❌     | eTLD 不一致 |

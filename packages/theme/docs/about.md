@@ -81,7 +81,7 @@ sidebar: false
 * 主题地址：https://theme.sugarat.top/
 * 主题包：[@sugarat/theme](https://www.npmjs.com/package/@sugarat/theme)
 * 项目地址：https://github.com/zhouxun0803/tree/master/packages/theme
-* 作者博客地址：https://sugarat.top
+* 作者博客地址：https://devzx.top
 
 
 ## 最后
