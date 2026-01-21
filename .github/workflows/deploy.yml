@@ -54,9 +54,13 @@ jobs:
       - name: Prepare deployment
         run: |
           cp .nojekyll packages/blogpress/.vitepress/dist/.nojekyll
+          cp CNAME packages/blogpress/.vitepress/dist/CNAME
           rm -rf packages/blogpress/.vitepress/dist/.jekyll-* packages/blogpress/.vitepress/dist/_* packages/blogpress/.vitepress/dist/Gemfile*
           find packages/blogpress/.vitepress/dist -name "*.md" -type f -delete
           rm -rf packages/blogpress/.vitepress/dist/packages
+          # 确保 CNAME 文件最后存在
+          find packages/blogpress/.vitepress/dist -name "CNAME" -type f -delete
+          cp CNAME packages/blogpress/.vitepress/dist/CNAME
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
